@@ -1,2 +1,2 @@
-# ytvideoplayer
-A Youtube semi-clone video player
+# Youtube video player clone
+This project is a Youtube semi-clone video player.
