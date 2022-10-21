@@ -1,0 +1,13 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.video-container {
+  display: flex;
+  flex-direction: row;
+}
